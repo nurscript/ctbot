@@ -1,0 +1,24 @@
+[bot]
+channel = "@chumkassa"
+start = '''
+Привет, {name} {last_name}
+Пополнение/Вывод средств из 1X!
+
+📥Пополнение: 0%
+📤Вывод: 0%
+👨‍💻Работаем 24/7
+
+👨‍💻Служба поддержки: @zero1win
+💕Чанал : @chumkassa
+🔐Ваши транзакции Защищены Финансовой службой 1X!
+'''
+
+
+[telegram]
+dob = ""
+token = "2031147364:AAFjjHD5wXwyyjMZgctIP9FfUnATTl2882g"
+
+[db]
+enabled = true
+ports = [8000]
+db = "mysql"
